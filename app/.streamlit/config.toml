@@ -1,0 +1,9 @@
+[client]
+caching = true
+
+[theme]
+primaryColor = "#00D9B9"
+backgroundColor = "#1C212A"
+secondaryBackgroundColor = "#14171e"
+textColor = "#FFFF"
+font = "monospace"
